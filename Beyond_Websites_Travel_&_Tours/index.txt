@@ -1,0 +1,14 @@
+Beyond Travels - Project 2
+
+Files in this project:
+
+- index.html — main HTML markup for the site (navigation, header, sections, footer).
+- style.css — stylesheet with design tokens, responsive layout and component styles.
+- main.js — minimal JavaScript for menu toggle, ScrollReveal animations and Swiper setup.
+- assets/ — images used by the site (header, showcase, clients, destinations, etc.).
+- STYLE_GUIDE.md — this newly added style guide summarizing tokens, components and layout rules.
+- index.txt — this file (project index).
+
+How to preview:
+1. Open `index.html` in a browser (double-click or serve with a static server).
+2. No build step required; internet connection required for CDN fonts/scripts.
