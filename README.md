@@ -7,6 +7,7 @@ They All have their Assests And Code
 |  #  | Website Name                                                                                                               | Live Demo                                                                        |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Beyond Travels](https://beyondtravelwebsite.netlify.app/)                             |  [Link](https://beyondtravelwebsite.netlify.app/)     |
+| 01  | [Bintitude Fashion](https://bintidiclothweb.netlify.app/)                             |  [Link](https://bintidiclothweb.netlify.app/)     |
 
 
 **NOTE ON PULL REQUESTS**:  
